@@ -59,4 +59,12 @@ challenges_and_answers.zip
 [1] : Due to GitHub size restrictions, this file has been divided in 100Mb parts.
 
 
+brief update
+------------
+
+During a presentation at the School of Computing, Cambridge University, Dr. Kuhn made the interesting suggestion that the attack results could be influenced by previous compression of the images using JPEG. In order to test this hypothesis, we run an experiment using the RAISE-1k RAW images dataset. The source code and results are available here:  https://github.com/carlos-havier/jpeg-experiment. In brief, even with images that have never been JPEG compressed before, this simple attack is able to correctly solve puzzles more than 25% of the time - and probably more using non-straight borders as with Capy.
+
+
+
+
 
